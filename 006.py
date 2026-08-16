@@ -66,6 +66,7 @@ Subject 5: B
 
 
 
+
 marks = []
 for i in range(5):
     m = int(input(f"Enter marks of subject {i+1}: "))
