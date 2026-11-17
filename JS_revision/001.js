@@ -14,3 +14,4 @@ console.log("sum of "+ a + " and " + b + " is " +c )  // sum of 10 and 20 is 30
 console.log(Number(NaN))  // NaN
 console.log(Number(undefined))  // NaN
 console.log(Number(null))  // 0
+console.log("why people change............?")
