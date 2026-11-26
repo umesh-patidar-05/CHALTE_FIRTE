@@ -18,7 +18,7 @@ Example 2:
 
 Input: s = "arRAzFif"
 Output: "R"
-Explanation:
+Explanation: 
 The letter 'R' is the greatest letter to appear in both lower and upper case.
 Note that 'A' and 'F' also appear in both lower and upper case, but 'R' is greater than 'F' or 'A'.
 Example 3:
